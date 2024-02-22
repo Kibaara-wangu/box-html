@@ -1,0 +1,11 @@
+#container1{
+    border:dotted 3px; color: blue;
+    padding:20px;
+    margin:5%;
+}
+#container2{
+    border:solid 3px; color: blueviolet;
+    margin:5%;
+    padding:20px;
+
+}
